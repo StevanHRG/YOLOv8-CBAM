@@ -20,7 +20,7 @@ Structural defects in wind turbine blades can compromise efficiency and safety. 
 ## 📂 Dataset
 
 The model is trained on the [Blade30 Dataset](https://github.com/cong-yang/Blade30), using:
-- **Cropped RGB images (256x256)** containing defect regions.
+- **Cropped RGB images (256x256)** containing defect regions [Blade30 Cropped Dataset](https://1drv.ms/u/c/f179880780519024/EaxA4fYH9yxJitjAVF6L3acB0v7-Xh6dLptHb6KDfXFR1A?e=MLFzcf).
 - **Binary PNG masks** with 1 = defect, 0 = background.
 
 Example input crops:
