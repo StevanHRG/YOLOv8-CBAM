@@ -1,4 +1,4 @@
-# 🌀 YOLOv8-CBAM for Wind Turbine Blade Defect Segmentation
+# 🌀 YOLOv8+CBAM for Wind Turbine Blade Defect Segmentation
 
 This repository contains a custom semantic segmentation model based on **YOLOv8**, enhanced with **Convolutional Block Attention Modules (CBAM)**, designed for the detection of small structural defects in wind turbine blade crops.
 
